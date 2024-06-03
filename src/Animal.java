@@ -13,7 +13,7 @@ public class Animal {
     }
 
     public void moves(String speed) {
-        System.out.println(type + " moves with " + speed);
+        System.out.println(type + " moves " + speed);
     }
 
     public void makeNoise() {
